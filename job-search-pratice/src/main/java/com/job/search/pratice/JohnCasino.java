@@ -1,3 +1,4 @@
+package com.job.search.pratice;
 
 public class JohnCasino {
 
